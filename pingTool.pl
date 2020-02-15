@@ -344,7 +344,7 @@ sub checkAlive {
 }
 
 
-# subroutine: test Ping ------------------------
+# subroutine: testPing  ------------------------
 # 
 #  exec linux ping command shell 
 #   ____________________________________________ 
