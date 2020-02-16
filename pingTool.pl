@@ -31,7 +31,7 @@ my @arrayPID1;		# array for ping procces ID for "testPing"
 my @arrayResult;	# ping result file for calc
 my $ip;			# ping destination IP
 my $comment;		# commnet for ping destination IP
-my $dir = `date "+%Y_%m_%d"`;
+my $dir = `date "+%Y_%m_%d"`;	# evidence directory
 my @tail_PID;		# ping result file for calc
 my $src = "PC";
 my $testName = "failover";
